@@ -1,1 +1,2 @@
 Mi primer fichero en GitHub
+Comentario añadido al fichero (segunda versión)
